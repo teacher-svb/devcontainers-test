@@ -1,0 +1,17 @@
+{
+  "name": "cat-me",
+  "version": "1.0.0",
+  "description": "cats",
+  "main": "cat-me.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SVB",
+  "license": "ISC",
+  "dependencies": {
+    "cat-me": "^1.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.14.0"
+  }
+}
